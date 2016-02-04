@@ -1,0 +1,113 @@
+header {
+	position: fixed;
+	background-color: white;
+	width: 100%;
+	z-index: 15;
+}
+.school {
+	color: #4F5B79;
+	text-align: center;
+	margin-top: 10px;
+}
+li {
+	display: inline-block;
+	margin: 30px 40px;
+	color: #4F5B79;
+}
+ul {
+	text-align: center;s
+}
+a{
+	text-decoration: none;
+	color:grey;
+}
+
+.clases {
+	padding-top: 200px;
+	background-color: #E0F2F7;
+}
+.info{
+	margin-left: 300px;
+}
+
+.primerafila{
+	padding-bottom: 20px;
+}
+
+.titulo {
+	font-size: 25px;
+	margin-bottom: 50px;
+}
+.titulo, .tag, .text{
+	text-align: center;
+}
+.fond {
+	background-color: rgba(0, 0, 0, 0.55);
+    position: absolute;
+    margin: 142px 19px;
+    width: 240px;
+    padding: 30px;
+}
+.class, .fotos {
+	width: 280px;
+	height: 350px;
+	margin-top: 10px;
+}
+.class{
+	overflow:hidden;
+}
+.tag, .text {
+	color: white;
+}
+.tag {
+	font-size: 10px;
+	margin-bottom: 10px;
+}
+.text {
+	font-size: 13px;
+}
+.fotos{
+	overflow: hidden;
+	margin-top: 30px;
+}
+.sectionintermedio {
+    background: url(../img/shoes_1.jpg)no-repeat;
+    background-size: 60% 100%;
+    height: 590px;
+    background-position: 470px 0px;
+    padding: 80px 0px;
+}
+.contact{
+	font-size: 30px;
+	color:#120A2A;
+	padding-bottom: 20px;
+}
+
+.fa-envelope, .fa-pencil, .fa-user {
+	position: absolute;
+	margin: 10px 10px;
+}
+input, .send {
+	display: block;
+	width: 450px;
+	padding: 7px 34px;
+	margin: 12px 0px;
+	border-radius: 3px;
+	border: 1px #ccc solid;
+}
+.enviar {
+	background-color: #192951;
+	color: white;
+	padding: 15px;
+	font-size: 15px;
+}
+.final {
+	background-color: #192951;
+	width: 100%;
+	padding: 30px;
+}
+.derechos{
+	color:white;
+	font-size: 15px;
+	padding-top: 10px;
+}

@@ -1,0 +1,171 @@
+header {
+	position: fixed;
+	background-color: white;
+	width: 100%;
+	z-index: 15;
+}
+.school{
+	color: #4F5B79;
+	text-align: center;
+	margin-top: 10px;
+}
+li {
+	color: #4F5B79;
+	display: inline-block;
+	margin: 25px 35px;
+}
+ul {
+	text-align: center;
+}
+.plane {
+	padding-top: 100px;
+}
+.first {
+	background: url(../img/dance_1.jpg)no-repeat;
+	background-size: 100% 150%;
+    height: 400px;  
+}
+.studio {
+	width: 180px;
+}
+a{
+	text-decoration: none;
+}
+.stu, .dio {
+	color: #C5C8C6;
+	text-align: left;
+}
+.stu {
+	font-size: 45px;
+	padding: 100px 0px 15px;
+}
+.dio {
+	font-size: 13px;
+	}
+.sky {
+	background-color: #070B14;
+	width: 100px;
+	padding: 12px;
+	margin-top: 20px;
+}
+.two {
+    background: url("../img/textura_2.jpg")repeat;
+    width: 100%;
+}
+.text, .decoration {
+	color:#231F20;
+	text-align: center;
+}
+.decoration {
+	width: 100px;
+	height: 70px;
+}
+.center {
+	width: 500px;
+	text-align: center;
+	padding: 70px 0px 40px;
+}
+.oferta {
+	background-color: #192951;;
+	width: 220px;
+	padding: 14px;
+	border-radius: 3px;
+}
+.oferta, .center {
+	margin: auto;
+}
+.ofert, .caja, .danza {
+	text-align: center;
+}
+.third {
+	background: url("../img/textura_2.jpg")repeat;
+    width: 100%;
+    padding: 0px;
+}
+.profesor, .profesor2{
+	width: 650px;
+    height: 400px;
+    clip: rect(0px 650px 265px 0px);
+    position: absolute;
+}
+.borde1, .borde2 {
+	border: 2px solid #192951;
+    width: 654px;
+    height: 269px;
+}
+.profesor {
+	margin-left: -325px;
+}
+.borde1 {
+	margin-left: -183px;
+    text-align: center;
+}
+.cage {
+    background-color: #192951;
+    width: 320px;
+    padding: 15px;
+    margin: -50px 300px;
+    position: absolute;
+}
+.parrafo1, .vis{
+	color: white;
+}
+.dance {
+	font-size: 30px;
+	color: #727272;
+	padding: 80px;
+}
+.four {
+	background-color: #192951;
+	width: 100%;
+	padding: 80px 0px;
+}
+.sky, .fa-skype{
+	color: #00AFF0;
+	font-size: 12px;
+}
+.spy{
+	max-width: 220px;
+}
+.see{
+	font-size: 17px;
+	margin: 14px 0px 5px;
+}
+.maps {
+	width: 500px;
+	height: 250px;
+}
+.contact {
+	color: #2F3D61;
+	font-size: 30px;
+}
+.five {
+    background: url(../img/shoes_1.jpg)no-repeat;
+    background-size: 60% 100%;
+    height: 587px;
+    background-position: 470px 0px;
+    padding: 80px 0px;
+}
+input, .msj {
+	display: block;
+	width: 450px;
+	padding: 7px 34px;
+	margin: 12px 0px;
+	border-radius: 3px;
+	border: 1px #ccc solid;
+}
+.fa-envelope, .fa-pencil, .fa-user {
+	position: absolute;
+	margin: 8px 10px;
+}
+.send {
+	background-color: #192951;
+	color: white;
+	padding: 15px;
+	font-size: 15px;
+}
+.six {
+	background-color: #192951;
+	width: 100%;
+	padding: 30px;
+}

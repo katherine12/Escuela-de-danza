@@ -1,0 +1,132 @@
+header {
+	position: fixed;
+	background-color: white;
+	width: 100%;
+	z-index: 15;
+}
+.school {
+	color: #4F5B79;
+	text-align: center;
+	margin-top: 10px;
+}
+li {
+	display: inline-block;
+	margin: 30px 40px;
+	color: #4F5B79;
+}
+ul {
+	text-align: center;s
+}
+a{
+	text-decoration: none;
+	color:grey;
+}
+.clases {
+	padding-top: 200px;
+	background-color: #E0F2F7;
+	position: relative;
+	padding-bottom: 90px;
+}
+.primerafila{
+	margin-top: 40px;
+}
+.titulo{
+	text-align: center;
+}
+.pequeño{
+	height: 250px;
+	width: 1000px;
+	background-color:#9d95ff;
+	position: relative;
+	background-image: url("../img/blog1.jpg");
+	background-size:300px 250px;
+	background-repeat: no-repeat;
+}
+.pequeño2{
+	height: 250px;
+	width: 1000px;
+	background-color:#9d95ff;
+	position: relative;
+	background-image: url("../img/profesor_5jpg.jpg");
+    background-size:300px 250px;
+	background-repeat: no-repeat;
+}
+.pequeño3{
+	height: 250px;
+	width: 1000px;
+	background-color:#9d95ff;
+	position: relative;
+	background-image: url("../img/instructor_1.jpg");
+    background-size:300px 250px;
+	background-repeat: no-repeat;
+}
+.texto{
+	padding-top: 30px;
+	margin-left: 350px;
+}
+.talleres{
+	font-size: 15px;
+	padding-bottom: 10px;
+}
+.date{
+	font-size: 11px;
+	color: grey;
+	font-family: italic;
+}
+.look{
+	height: 50px;
+	width:250px;
+	background-color:#00214d;
+	border-radius: 5px;
+	font-size: 22px;
+	text-align:center;
+	color:white;
+}
+.msj{
+	color:#00214d;
+	font-size: 14px;
+	padding-top: 10px;
+	padding-bottom: 20px;
+}
+.sectionintermedio {
+    background: url(../img/shoes_1.jpg)no-repeat;
+    background-size: 60% 100%;
+    height: 590px;
+    background-position: 470px 0px;
+    padding: 80px 0px;
+}
+.contact{
+	font-size: 30px;
+	color:#120A2A;
+	padding-bottom: 20px;
+}
+
+.fa-envelope, .fa-pencil, .fa-user {
+	position: absolute;
+	margin: 10px 10px;
+}
+input, .send {
+	display: block;
+	width: 450px;
+	padding: 7px 34px;
+	margin: 12px 0px;
+	border-radius: 3px;
+	border: 1px #ccc solid;
+}
+.enviar {
+	background-color: #192951;
+	color: white;
+	padding: 15px;
+	font-size: 15px;
+}
+.final {
+	background-color: #192951;
+	width: 100%;
+	padding: 30px;
+}
+.derechos{
+	color:white;
+	font-size: 15px;
+	padding-top: 10px;
+}
+
